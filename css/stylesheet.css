@@ -5,4 +5,10 @@ h1{
 
 h2{
     font-family: fantasy;
+    background-color: floralwhite; 
+}
+
+h3{
+    color: gray;
+    font-family: Arial, sans-serif;
 }
