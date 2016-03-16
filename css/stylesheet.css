@@ -23,3 +23,30 @@ table{
 td{
     border: 1px solid black;
 }
+
+.formfield{
+    display: block;
+    width: 40%;
+    border-radius: 10px;
+    border: 1px solid #FF0000;
+    
+}
+
+.formlabel{
+    font-family: Arial, sans-serif;
+}
+
+#edyform{
+    background-color: #e28920;
+    
+    float: left;
+    width: 50%;
+    height: 500px;
+}
+
+#g1form{
+    background-color: aqua;
+    float: right;
+    width: 50%;
+    height: 500px;
+}
