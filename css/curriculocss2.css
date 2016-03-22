@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: sans-serif;
+}
+
+.dados{
+    text-align: center;
+}
+
+img{
+    margin-left: 47%;
+}
+
+h2{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+.titulo{
+    text-decoration: underline;
+    text-decoration-style: solid;
+}
