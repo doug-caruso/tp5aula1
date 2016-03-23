@@ -1,7 +1,8 @@
 h1{
     text-align: center;
-    color: blue;
-    font-family: sans-serif;
+    color: darkblue;
+    font-style: italic;
+    font-stretch: semi-expanded;
 }
 
 .dados{
@@ -21,4 +22,15 @@ h2{
 .titulo{
     text-decoration: underline;
     text-decoration-style: solid;
+}
+
+#fundo{
+    background-color: aliceblue;
+    color: black;
+}
+
+.curriculo{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0px auto;
 }

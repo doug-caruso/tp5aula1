@@ -6,3 +6,9 @@ h1{
 h2{
     text-decoration: underline;
 }
+
+.curriculo{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0px auto;
+}
